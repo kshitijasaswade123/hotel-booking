@@ -1,0 +1,11 @@
+#slider{
+    background-image: url(images/hotel1.jpg);
+    display            : cover;
+    background-position: center;
+    height             : 100vh;
+    text-align         : center;
+    display            : flex;
+    align-items        : center;
+    padding-left       : 3rem;
+
+}
