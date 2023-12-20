@@ -6,6 +6,16 @@
     text-align         : center;
     display            : flex;
     align-items        : center;
-    padding-left       : 3rem;
+    
 
+}
+.hotel-booking-table{
+    position: relative;
+    bottom: 175px;
+    color: white;
+}
+
+.accomodationbtn {
+    position: relative;
+    bottom: 50px;
 }
