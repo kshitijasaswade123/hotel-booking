@@ -19,7 +19,14 @@
     position: relative;
     bottom: 50px;
 }
-#accomodation img{
-    height: 263;
-    width: 270;
+.accomodation .hotel-img img{
+    height: 263px;
+    width: 270px;
+}
+@media screen and (min-width: 320px) {
+    .hotel-booking-table{
+        position: relative;
+        bottom: 100px;
+        color: white;
+    } 
 }
