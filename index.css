@@ -29,4 +29,34 @@
         bottom: 100px;
         color: white;
     } 
+    .facility-item{
+        margin-bottom: 10px;
+
+    }
+    .accomodation-item{
+        margin-bottom: 15px;
+
+    }
+   
+}
+.facility-item{
+    border: solid 1px;
+    border-radius: 10px;
+    
+    color: white;
+    padding: 10px;
+}
+.facility{
+    background-image: url(images/hotel1.jpg);
+    opacity: 0.5;
+    
+}
+.facility-title h1 p{
+    font-size: 35px;
+    line-height: 45px;
+    font-weight: 300px;
+}
+.about-us img{
+    height: 400px;
+    width: 500px;
 }
